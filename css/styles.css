@@ -7,5 +7,7 @@ html {
 }
 
 body {
-    font-family: sans-serif;
+    font-family: 'Victor Mono', monospace;
+    background-color: lightgray;
+    color: white;
 }
